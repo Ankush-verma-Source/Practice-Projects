@@ -270,6 +270,9 @@ footer .container {
     .grid-container {
         grid-template-columns:repeat(2,1fr);
     }
+    #hero .container {
+        flex-direction: column;
+    }
 }
 @media (max-width:725px) {
     .grid-container {
