@@ -272,6 +272,7 @@ footer .container {
     }
     #hero .container {
         flex-direction: column;
+        justify-content: center;
     }
 }
 @media (max-width:725px) {
