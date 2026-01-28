@@ -13,15 +13,15 @@ html , body{
 }
 .image1{
     height: 100%;
-    background-image:url("/Project 3/images/image1.png");
+    background-image:url("images/image1.png");
 }
 .image2{
     min-height: 400px;
-    background-image:url("/Project 3/images/image2.png");
+    background-image:url("images/image2.png");
 }
 .image3{
     min-height: 400px;
-    background-image:url("/Project 3/images/image3.png");
+    background-image:url("images/image3.png");
 }
 .image1 , .image2, .image3 {
     background-size:cover;
